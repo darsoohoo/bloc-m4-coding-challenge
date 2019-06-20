@@ -1,5 +1,5 @@
 # bloc-m4-coding-challenge
-This application is used to share your thoughts and post to a public wall.
+Create an application in which a user can post to a wall and read other comments posted on the wall
 
 ### `npm install`
 
@@ -21,3 +21,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Runs the unit and integration tests.<br>
 
+
+[logo]: /src/assets/wall-post.png "Wall post example"
