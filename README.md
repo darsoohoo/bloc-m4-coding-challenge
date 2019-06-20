@@ -21,6 +21,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Runs the unit and integration tests.<br>
 
-
-# bloc-coding-challenge
-# bloc-m4-coding-challenge
